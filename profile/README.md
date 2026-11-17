@@ -31,7 +31,7 @@ Volunteers build and look after the tools that help STAR care for birds and find
 
 ## 💌 Get involved
 
-Know someone who could use a feathered friend, or have a few hours to share? Every foster home and volunteer means another bird gets a second chance.
+Know someone who could use a feathered friend, or have a few hours to share? Every foster home and volunteer helps another bird land somewhere safe and loved.
 
 <p align="center">
   <a href="https://staravian.org/donate/"><b>Support STAR 💚</b></a>
