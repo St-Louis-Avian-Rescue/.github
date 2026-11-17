@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.png">
-  <img src="banner-light.png" alt="STAR – St. Louis Avian Rescue. Rescue, foster, adopt, educate." width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark-v3.png">
+  <img src="banner-light-v3.png" alt="STAR – St. Louis Avian Rescue. Rescue, foster, adopt, educate." width="100%">
 </picture>
 
 <p align="center">
