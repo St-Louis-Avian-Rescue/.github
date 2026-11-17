@@ -45,4 +45,4 @@ Know someone who could use a feathered friend, or have a few hours to share? Eve
   <a href="https://staravian.org/donate/"><b>Support STAR 💚</b></a>
 </p>
 
-<p align="center"><sub>Made with 🌻 seeds and ☕ by STAR volunteers.</sub></p>
+<p align="center"><sub>Made with 💚 and ☕ by STAR volunteers.</sub></p>
