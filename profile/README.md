@@ -1,8 +1,7 @@
-<p align="center">
-  <img src="star-logo.png" alt="STAR – St. Louis Avian Rescue logo" width="180">
-</p>
-
-<h1 align="center">🦜 St. Louis Avian Rescue</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.png">
+  <img src="banner-light.png" alt="STAR – St. Louis Avian Rescue. Every bird deserves a second chance." width="100%">
+</picture>
 
 <p align="center">
   <b>STAR</b> is an all-volunteer, foster-based 501(c)(3) parrot rescue in St. Louis, Missouri, helping birds since 2002.<br>
