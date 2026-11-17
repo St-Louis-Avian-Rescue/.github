@@ -21,14 +21,7 @@
 
 ## 🛠️ The tech flock
 
-This organisation holds the code that keeps STAR's day-to-day running: cloud functions that sync with our shelter manager, maps for STAR Tools, dashboards, email runbooks and the infrastructure behind it all. The repositories are private, but the birds are very public. Come say hi at [staravian.org](https://staravian.org).
-
-| | |
-|---|---|
-| ☁️ **Cloud** | Azure functions, web apps and automation, all managed with Terraform |
-| 🗺️ **Maps** | Foster locations, donation drop points and rescue partners |
-| 📊 **Dashboards** | Shelter counts and adoption follow-ups |
-| ⚡ **Automations** | Power Platform flows and Outlook runbooks |
+Volunteers build and look after the tools that help STAR care for birds and find them homes. Any projects we share publicly will show up here.
 
 ## 🪶 Did you know?
 
